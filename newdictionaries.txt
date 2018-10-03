@@ -1,2 +1,0 @@
-man	con nguoi
-monkey	con khi

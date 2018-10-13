@@ -59,6 +59,8 @@ public class DictionaryCommandline extends DictionaryManagement{
             System.out.println("                    Nhập 3 để thêm từ mới.");
             System.out.println("                    Nhập 4 để xóa từ.");
             System.out.println("                    Nhập 5 để thay thế định nghĩa của từ.");
+            System.out.println("                    Nhập 6 để thay thoát.");
+
 
             int chosen = sc.nextInt();
 
@@ -87,7 +89,11 @@ public class DictionaryCommandline extends DictionaryManagement{
                     a.dictionaryReplace();
                     break;
                 }
-
+               
+                case 6:{
+                    break;
+                }
+                    
                 default:{
                     System.out.println("Thao tác không tồn tại!");
                     a.runner(a);

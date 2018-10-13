@@ -1,0 +1,433 @@
+﻿a billion	một tỉ
+a hundred	một tram
+a hundred and one	mộ trăm linh một
+a million	một triệu
+a thousand	một nghìn
+afternoon	buổi chiều
+alarm clock	đồng hồ báo thức
+always	luôn luôn
+angry	tức giậnn
+annoyed	khó chịu
+anxious	lo lắng
+April	Tháng 4
+April Fools' Day	Ngày Nói dối
+armchair	ghế có tay vịn
+arrogant	ngạo mạn
+astonished	kinh ngạc
+attractive	hấp dẫn
+August	Tháng 8
+aunt	cô/dì/bác gái
+autumn	mùa thu
+baby	trẻ nhỏ
+bad-tempered	nóng tính
+bald	hói
+bald-headed	đầu hói
+bank holiday	ngày quốc tế
+bath	bồn tắm
+bathroom scales	cân sức khỏe
+beard	có râu
+beautiful	đẹp
+bed	giường
+bedside table	bàn để cạnh giường ngủ
+best man	phù r?
+bin	thùng rác
+birthday cake	bánh sinh nhật
+birthday card	thiệp sinh nhật
+birthday present	quà sinh nhật
+black	màu đen
+blanket	chăn
+blinds	rèm chặn ánh sáng
+blonde	tóc vàng
+blond-haired	tóc vàng
+blue	màu xanh da trời
+Blu-ray player	đầu đọc đĩa blu ray
+bookcase	giá sách
+bookshelf	giá sách
+bored	buồn chán
+Boxing Day	Ngày lễ tặng quà (sau ngày Giáng sinh)
+boyfriend	bạn trai
+breeze	gió nhẹ
+bride	cô dâu
+bridegroom	chú rể
+bridesmaid	phù dâu
+broom	chổi
+brother	anh trai/em trai
+brown	màu nâu
+brown-haired	tóc nâu
+brunette	tóc nâu sẫm
+bucket	cái xô
+calm	bình tĩnh
+carpet	thảm trải nền
+CD player	máy chạy CD
+century	thế kỉ
+chair	ghế
+cheerful	vui vẻ
+chest of drawers	tủ ngăn kéo
+child	con
+children	con
+Chinese New Year	Tết âm lịch
+Christmas	Giáng sinh
+Christmas cake	bánh Giáng sinh
+Christmas card	thiệp Giáng sinh
+Christmas Day	Ngày lễ Giáng sinh
+Christmas Eve	Ðêm Giáng sinh
+Christmas present	quà Giáng sinh
+Christmas pudding	bánh pudding Giáng sinh
+Christmas tree	cây thông no en
+clever	thông minh
+clock	đồng hồ
+cloud	mây
+cloudy	nhiều mây
+coat hanger	móc treo quần áo
+coat stand	cây treo quần áo
+coffee table	bàn uống nước
+cold	lạnh
+cold tap	vòi nước lạnh
+confident	tự tin
+cousin	anh chị em họ
+crazy	điên khùng
+cupboard	tủ chén
+curly hair	tóc xoăn
+curtains	rèm cửa
+cushion	gối
+daily	hàng ngày
+dark-haired	tóc sẫm màu
+daughter	con gái
+dawn	bình minh
+day	ngày
+decade	thập kỉ
+December	Tháng 12
+delighted	vui
+depressed	chán nản
+desk	bàn
+disappointed	thất vọng
+disgusted	kinh tởm
+dishonest	không thật thà
+divorced	ly hôn
+door handle	tay nắm cửa
+door knob	núm cửa
+doormat	thảm lau chân
+double bed	giường đôi
+dressing table	bàn trang điểm
+drinks cabinet	tủ rượu
+drizzle	mưa phùn
+drought	hạn hán
+dry	khô
+dull	nhiều mây
+dusk	hoàng hôn
+dustbin	thùng rác
+dustpan and brush	hót rác và chổi
+duvet	chăn
+DVD player	máy chạy DVD
+earlier	sớm hơn
+Easter	lễ phục sinh
+eight	tám
+eighteen	mười tám
+eighth	thứ tám
+eighty	tám mươi
+electric fire	lò sưởi điện
+eleven	mười một
+engaged	đính hôn
+enthusiastic	nhiệt tình
+evening	buổi tối
+every day	hàng ngày
+every month	hàng tháng
+every week	hàng tuần
+every year	hàng năm
+excited	hào hứng
+exhausted	kiệt sức
+fair-haired	tóc sáng màu
+fall	mùa thu
+fat	béo
+father	bố
+Father Christmas	ông già nô el
+Father's Day	Ngày của bố
+February	Tháng 2
+fed up	chán
+fifteen	mười lam
+fifth	thứ nam
+fifty	năm mươi
+filing cabinet	tủ đựng giấy tờ
+fine	trời đẹp
+first	thứ nhất
+five	năm
+five times	năm lần
+flannel	khăn rửa mặt
+flood	lũ
+foggy	nhiều suong mù
+fortnight	nửa tháng
+forty	bốn mươi
+four	bốn
+four times	bốn lần
+fourteen	mười bốn
+fourth	thứ tu
+Friday	thứ Sáu
+frost	băng giá
+frosty	giá rét
+furious	điên tiết
+fuse box	hộp cầu trì
+gale	gió giật
+games console	máy chơi điện tử
+gas fire	lò suởi ga
+generous	phóng khoáng
+ginger-haired	tóc nâu sáng
+girlfriend	bạn gái
+good-humoured	hài hước
+good-looking	ưa nhìn
+grandad	ông
+grandchild	cháu
+grandchildren	cháu
+granddaughter	cháu gái
+grandfather	ông
+grandly	bà
+grandma	bà
+grandmother	bà
+grandpa	ông
+grandparents	ông bà
+grandson	cháu trai
+green	màu xanh lá cây
+grey	màu xám
+hail	mưa đá
+hailstone	mưa đá
+Halloween	Halloween
+handsome	đẹp trai
+happy	vui
+happy	vui vẻ
+hard-working	chăm chỉ
+heat wave	đợt nóng
+honest	thật thà
+hoover  cleaner	máy hút bụi
+hot	nóng
+hot tap	vòi nước nóng
+hot-headed	nóng nảy
+hour	giờ
+houseplant	cây trồng trong nhà
+humid	ẩm
+hurricane	cuồng phong
+husband	chồng
+ice	băng
+icy	đóng băng
+immediately	ngay lập tức
+impulsive	hấp tấp
+Independence Day	Ngày lễ độc lập
+intelligent	thông minh
+iron	bàn là
+ironing board	bàn kê khi là quần áo
+January	Tháng 1
+July	Tháng 7
+June	Tháng 6
+kind	tốt bụng
+lamp	dèn bàn
+lampshade	chụp dèn
+later	muộn hơn
+lazy	lười
+light switch	công tác dèn
+lightning	chớp
+long hair	tóc dài
+March	Tháng 3
+marriage	hôn nhân
+married	có gia dình
+mattress	đệm
+May	Tháng 5
+mean	keo kiệt
+medium height	cao trung bình
+midday	buổi trưa
+middle-aged	trung tuổi
+midnight	n?a dêm
+minute	phút
+mirror	gương
+misty	nhiều suong muối
+Monday	thứ Hai
+month	tháng
+moody	tính khí thất thường
+mop	cây lau nhà
+morning	buổi sáng
+mother	mẹ
+Mother's Day	Ngày của mẹ
+moustache	có ria
+nephew	cháu trai
+never	không bao giờ
+New Year's Day	Ngày Ðầu năm mới
+New Year's Eve	Ðêm Giao thừa
+niece	cháu gái
+night time	buổi đêm
+nil	không 
+nine	chín
+nineteen	mười chín
+ninety	chín mươi
+ninth	thứ chín
+noon	buổi trưa
+nought	không 
+November	Tháng 11
+now	bây giờ
+O	không 
+obese	béo phì
+occasionally	thỉnh thoảng
+October	Tháng 10
+often	thường xuyên
+old	già
+once	một lần
+one	một
+one billion	một tỉ
+one hundred	một trăm
+one hundred and one	một trăm linh một
+one million	một triệu
+one thousand	một nghìn
+orange	màu da cam
+ornament	đồ trang trí trong nhà
+overcast	u ám
+overweight	béo
+painting	bức họa
+parent	bố mẹ
+partner	cộng tác
+piano	đàn piano
+picture	bức tranh
+pillow	gối
+pillowcase	vỏ gối
+pink	màu hồng
+pleased	hài lòng
+plug	phích cắm
+plug	phích cắm điện
+plug socket	ổ cắm
+plughole	lỗ thoát nước buồng tắm
+poster	bức tranh lớn
+power socket	ổ cắm
+pretty	xinh
+purple	màu tím
+radiator	lò sưởi
+radio	dài
+rain	mưa
+rainbow	cầu vồng
+raindrop	hạt mua
+rainy	có mưa
+rarely	hiếm khi
+record player	máy hát
+red	màu đỏ
+redhead	tóc đỏ
+relaxed	thư giãn
+rug	thảm lau chân
+sad	buồn
+Santa Claus	Ông già Nô-el
+Saturday	thứ bảy
+scruffy	luộm thuộm
+second	thứ hai
+second	giây
+sensible	khôn ngoan
+sensitive	nhạy cảm
+separated	ly thân
+September	Tháng 9
+serious	nghiêm túc
+seven	bảy
+seventeen	mười bảy
+seventh	thứ bảy
+seventy	bảy mươi
+sheet	ga trải giường
+short	thấp
+short hair	tóc ngắn
+shower	mưa rào nhẹ
+sideboard	tủ ly
+single	độc thân
+single bed	giường don
+sister	chị gái/em gái
+six	sáu
+sixteen	mườisáu
+sixth	thứ sáu
+sixty	sáu mươi
+sleet	mưa tuyết
+slim	mảnh 
+smart	gọn gàng
+snobbish	khinh người
+snow	tuyết
+snowflake	bông tuyết
+sofa	ghế sofa
+sofa-bed	giường sofa
+son	con trai
+soon	sớm
+spin dryer	máy sấy quầ áo
+sponge	mút rửa bát
+spring	mùa xuân
+stereo	máy stereo
+stool	ghế đẩu
+storm	bão
+stormy	có bão
+straight hair	tóc thẳng
+stressed	căng thẳng
+strong winds	con gió mạnh
+summer	mùa hè
+sun	mặt trời
+Sunday	Chủ nhật
+sunny	có nắng
+sunrise	mặt trời mọc
+sunset	mặt trời mọc
+sunshine	ánh nắng
+surprised	ngạc nhiên
+table	bàn
+tablecloth	khan trải bàn
+tall	cao
+tap	vòi nước
+telephone	điện thọai
+ten	mười
+tenth	thứ mười
+then	khi đó
+thin	gầy
+third	thứ ba
+thirteen	mười ba
+thirty	ba mươi
+three	ba
+three hundred	ba trăm
+three thousand	ba nghìn
+three times	ba lần
+thunder	sấm
+thunderstorm	bão có sấm sét
+Thursday	thứ Nam
+tired	mệt mỏi
+to adopt	nhận nuôi
+to die	mất
+to freeze	đóng băng
+to get divorced	li dị
+to get married	kết hôn
+to melt	tan
+to snow	tuyết rơi
+to thaw	tan
+torch	đèn pin
+tornado	lốc xoáy
+towel	khan tắm
+Tuesday	thứ Ba
+TV 	ti vi
+twelve	mười hai
+twenty	hai mươi
+twenty-one	hai mốt
+twenty-three	hai ba
+twenty-two	hai hai
+twice	hai lần
+two	hai
+two hundred	hai trăm
+two thousand	hai nghìn
+ugly	xấu
+uncle	chú/cậu/bác trai
+unhappy	không vui
+unintelligent	không thông minh
+Valentine's Day	Ngày Lễ Tình Nhân / Ngày Valentine
+vase	bình hoa
+wallpaper	giấy dán tường
+wardrobe	tủ quần áo
+washing machine	máy giặt
+waste paper basket	giỏ đựng giấy bỏ đi
+wedding	dám cưới
+wedding day	ngày cưới
+Wednesday	thứ Tu
+week	tuần
+weekend	cuối tuần
+well-built	cường tráng
+well-dressed	an mặc đẹp
+wet	ướt
+white	màu trắng
+wife	vợ
+wind	gió
+windy	có gió
+winter	mùa đông
+worried	lo lắng
+year	năm
+yellow	màu vàng
+young	trẻ
+zero	không 
